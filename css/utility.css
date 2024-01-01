@@ -1,0 +1,54 @@
+.red-border{
+    border: 2px solid red;
+    margin: 3px;
+}
+
+.flex{
+    display: flex;
+}
+.justify-center{
+justify-content: center;
+}
+.aling-center{
+    align-items: center;
+}
+
+.items-invert{
+    filter: invert(1);
+}
+
+.bg-black{
+    background: black;
+    color: white;
+
+}
+
+.bg-grey{
+    background: #121212;
+
+}
+
+.rounded{
+    border-radius: 7px;
+}
+
+.m-1{
+    margin: 5px;
+}
+.p{
+    padding: 15px;
+}
+
+::-webkit-scrollbar {
+    width: 10px;
+  }
+
+  ::-webkit-scrollbar-thumb {
+    background-color: #212121; /* thumb color */
+    border-radius: 6px;
+  }
+
+  ::-webkit-scrollbar-track {
+    background-color: #121212; /* track color */
+    border-radius: 6px;
+  }
